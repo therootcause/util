@@ -13,4 +13,4 @@ rm -rf ./tmp
 mkdir ./tmp
 cd ./tmp
 
-cat ../repos.txt | xargs -n 1 | ../tag_repo.sh $BRANCHNAME $TAGNAME
+cat ../repos.txt | xargs -n 1 ../tag_repo.sh $BRANCHNAME $TAGNAME
