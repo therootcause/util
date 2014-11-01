@@ -1,0 +1,5 @@
+git@github.com:Tesora/tesora-trove-integration.git
+git@github.com:Tesora/tesora-trove.git
+git@github.com:Tesora/tesora-horizon.git
+git@github.com:Tesora/tesora-dbaas-trove-packaging.git
+git@github.com:Tesora/tesora-python-troveclient.git
